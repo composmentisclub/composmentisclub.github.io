@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5bfadf9f.css",
+    "main.js": "/static/js/main.df8cd028.js",
+    "static/media/running.gif": "/static/media/running.2be986f0ea39cb8edc0f.gif",
+    "static/media/head.png": "/static/media/head.437798c34ebcf823abba.png",
+    "static/media/composmentis_glitch.png": "/static/media/composmentis_glitch.d9975d97b20c775b531c.png",
+    "static/media/Wolkerjuiced.ttf": "/static/media/Wolkerjuiced.8cea54ffff58d4cfc5c8.ttf",
+    "index.html": "/index.html",
+    "main.5bfadf9f.css.map": "/static/css/main.5bfadf9f.css.map",
+    "main.df8cd028.js.map": "/static/js/main.df8cd028.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bfadf9f.css",
+    "static/js/main.df8cd028.js"
+  ]
+}
